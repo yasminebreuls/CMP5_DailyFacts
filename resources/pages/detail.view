@@ -1,0 +1,20 @@
+<svg viewport-fill="#000000">
+
+  <textarea fill="#428A9B" x="18" y="3" width="300" height="110" font-size="36" font-family="System-Regular" text-anchor="middle" text-buffer="Fact of the day!" />
+
+  <text id="facts" fill="white" x="50%" y="100" width="300" font-size="22" font-family="System-Regular" text-anchor="middle" text-length="50" text-buffer="loading" content="fill" object-fit="cover"/>
+
+  <use href="#button" fill="#00FFFF" x="10%" y="70%-90" width="80%">
+
+    <set href="text" attributeName="text-buffer" to="Like" />
+
+    <set href="handle" attributeName="id" to="like-button" />
+
+  </use>
+  <use href="#button" fill="#00FFFF" x="10%" y="100%-90" width="80%">
+
+    <set href="text" attributeName="text-buffer" to="List" />
+
+    <set href="handle" attributeName="id" to="back-button" />
+  </use>
+</svg>

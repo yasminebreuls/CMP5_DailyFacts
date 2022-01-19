@@ -1,0 +1,21 @@
+<svg viewport-fill="#000000">
+
+  <textarea fill="#428A9B" x="18" y="3" width="300" height="110" font-size="36" font-family="System-Bold" text-anchor="middle" text-buffer="Favourites" />
+
+  <textarea id="listregion" fill="#E3F2FC" x="18" y="43" width="300" height="110" font-size="36" font-family="System-Regular" text-anchor="middle" text-buffer="Detail!" />
+
+  <textarea id="listregion1" fill="#E3F2FC" x="18" y="83" width="300" height="110" font-size="36" font-family="System-Regular" text-anchor="middle" text-buffer="Detail!" />
+
+  <textarea id="listregion2" fill="#E3F2FC" x="18" y="123" width="300" height="110" font-size="36" font-family="System-Regular" text-anchor="middle" text-buffer="Detail!" />
+
+  <textarea id="listregion3" fill="#E3F2FC" x="18" y="163" width="300" height="110" font-size="36" font-family="System-Regular" text-anchor="middle" text-buffer="Detail!" />
+
+  <textarea id="listregion4" fill="#E3F2FC" x="18" y="203" width="300" height="110" font-size="36" font-family="System-Regular" text-anchor="middle" text-buffer="Detail!" />
+
+  <textarea id="listregion5" fill="#E3F2FC" x="18" y="240" width="300" height="110" font-size="36" font-family="System-Regular" text-anchor="middle" text-buffer="Detail!" />
+
+  <textarea id="listregion6" fill="#E3F2FC" x="18" y="283" width="300" height="110" font-size="36" font-family="System-Regular" text-anchor="middle" text-buffer="Detail!" />
+
+  <textarea id="listregion7" fill="#E3F2FC" x="18" y="323" width="300" height="110" font-size="36" font-family="System-Regular" text-anchor="middle" text-buffer="Detail!" />
+
+</svg>

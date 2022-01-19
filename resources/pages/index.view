@@ -1,0 +1,13 @@
+<svg viewport-fill="white">
+  <textarea fill="#428A9B" x="18" y="30" width="310" height="110" font-size="36" font-family="System-Regular" text-anchor="middle" text-buffer="Welcome!"/>
+
+  <image x="25%" y="30%" width="180" height="180" href="logo.png" attributeName="text-buffer"/>
+
+  <use href="#button" fill="#E3F2FC" x="10%" y="100%-170" width="80%" opacity="0">
+
+  <set href="handle" attributeName="id" to="detail-button"/>
+
+
+
+  </use>
+</svg>
